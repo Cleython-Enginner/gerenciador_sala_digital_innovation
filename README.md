@@ -1,5 +1,8 @@
-# ClientRoom
+# Projeto realizado no Bootcamp Java Developer 
 
+## Gerenciador de Salas de Reunião
+
+![Screenshot](https://github.com/Cleython-Enginner/gerenciador_sala_digital_innovation/blob/main/img/sala-de-reuniao.jpg)
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 9.0.0-rc.7.
 
 ## Development server
