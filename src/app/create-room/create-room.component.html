@@ -7,6 +7,11 @@
     </div>
 
     <div class="form-group">
+      <label for="name">Sala</label>
+      <input type="text" class="form-control" id="numero" required [(ngModel)]="room.numero" name="numero">
+    </div>
+
+    <div class="form-group">
       <label for="name">Data da Sublocação</label>
       <input type="text" class="form-control" id="date" required [(ngModel)]="room.date" name="date">
     </div>
@@ -21,7 +26,7 @@
         <input type="text" class="form-control" id="endHour" required [(ngModel)]="room.endHour" name="endHour">
       </div>
 
-    <button type="submit" class="btn btn-success">Enviar</button>
+    <button type="submit" class="btn btn-success">Locar</button>
 
   </form>
 </div>

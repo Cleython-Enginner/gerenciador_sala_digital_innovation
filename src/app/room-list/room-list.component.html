@@ -7,6 +7,7 @@
         <thead>
           <tr>
             <th>Profissional</th>
+            <th>Sala</th>
             <th>Data da Sublocação</th>
             <th>Horário de Entrada</th>
             <th>Horário de Saída</th>
@@ -16,6 +17,7 @@
         <tbody>
           <tr *ngFor="let room of rooms | async">
             <td>{{room.name}}</td>
+            <td>{{room.numero}}</td>
             <td>{{room.date}}</td>
             <td>{{room.startHour}}</td>
             <td>{{room.endHour}}</td>
