@@ -2,8 +2,7 @@
 
 ## Gerenciador de Salas de Reunião
 
-![Screenshot](https://github.com/Cleython-Enginner/gerenciador_sala_digital_innovation/blob/main/img/sala-de-reuniao.jpg)
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 9.0.0-rc.7.
+![Screenshot](https://github.com/Cleython-Enginner/gerenciador_sala_digital_innovation/blob/main/src/assets/imagens/tela-sistema.png)
 
 ## Development server
 
